@@ -114,10 +114,3 @@ To submit your work to BootCampSpot, create a new GitHub repository and upload t
 
 * Use Bootstrap to structure your HTML template.
 
-## Rubric
-
-[Unit 12 Rubric - Web Scraping Homework - Mission to Mars](https://docs.google.com/document/d/1paGEIFS5yp2VQu6G8F45B4uj1t1t29zL73KEQrD0xpo/edit?usp=sharing)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

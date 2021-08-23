@@ -2,5 +2,6 @@ In this challenge, i've created an HTML that were scraped from Mars News Site](h
 The following steps were done to complete the application.
 . Created a Jupyter Notebook file called mission_to_mars.ipynb
 
+
 ![final_app_part1.png](Images/final_app.png)
 
